@@ -1,6 +1,6 @@
 # 🌟 My Portfolio Website
 
-![Portfolio Screenshot](https://via.placeholder.com/1200x400?text=Portfolio+Screenshot)
+![Portfolio Screenshot](images\Screenshot.png)
 
 Welcome to the repository of my personal portfolio website!  
 This site showcases my projects, skills, and experience as a **[Your Role]**, and serves as a hub for everything about me professionally.
