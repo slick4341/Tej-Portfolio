@@ -17,9 +17,8 @@ This site showcases my projects, skills, and experience as a **[Your Role]**, an
 - ✅ Built with modern web technologies:
   - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - or [React/Vue/Next.js/etc.] if applicable
-- ✅ Hosted on **GitHub Pages**
+  - [JQuery] (https://api.jquery.com/)
+- ✅ Hosted on **Vercel**
 
 ---
 
